@@ -9,10 +9,11 @@
 <h2 align="center">A Frontend Dev <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="30" height="30" align="center"/></h2>
 
 ###
+<div align="center">
+<img width="20%" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" >
+<h2 align="center"> Languages and Tools I Use </h2>
+</div>
 
-<h3 align="left">🚀 Languages and Tools I Use</h3>
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
